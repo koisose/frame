@@ -1,0 +1,1 @@
+export const screenshotURI='https://screenshot.koisose.lol/api/screenshot'

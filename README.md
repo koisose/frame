@@ -8,12 +8,16 @@ cloudflared tunnel --url http://localhost:5173
 # Production
 
 ```
- fly launch --ha=false
-  fly secrets set DETA_API_KEY=
- fly deploy --ha=false
+fly launch --ha=false
+fly secrets set DETA_API_KEY=
+fly deploy --ha=false
 
 ```
 
-# Demo
+# Live Demo
 
-https://youtube.com/shorts/rLQVEkH2yro?feature=share
+- [gitcoin grants explorer frame](https://warpcast.com/koisose.eth/0xe7dafd0f)
+
+# Demo video
+
+- [gitcoin grants explorer frame](https://www.youtube.com/watch?v=ZMGjXqQd5tE)

@@ -40,19 +40,19 @@ const MyComponent = component$(() => {
   <span>Pick chain</span>
   <ol>
     <li class="flex items-center my-2">
-      1. <img src={`https://source.unsplash.com/random/1`} alt="Item 1" class="h-10 w-10 mx-2" width="30" height="30" />
+      1. <img src={`https://chain-icons.s3.amazonaws.com/arbitrum.png`} alt="Item 1" class="h-10 w-10 mx-2" width="30" height="30" />
       Arbitrum one
     </li>
     <li class="flex items-center my-2">
-      2. <img src={`https://source.unsplash.com/random/2`} alt="Item 2" class="h-10 w-10 mx-2" width="24" height="24" />
+      2. <img src={`https://chain-icons.s3.amazonaws.com/chainlist/8453`} alt="Item 2" class="h-10 w-10 mx-2" width="24" height="24" />
       Base
     </li>
     <li class="flex items-center my-2">
-      3. <img src={`https://source.unsplash.com/random/3`} alt="Item 3" class="h-10 w-10 mx-2" width="24" height="24" />
+      3. <img src={`https://chain-icons.s3.amazonaws.com/polygon.png`} alt="Item 3" class="h-10 w-10 mx-2" width="24" height="24" />
       Polygon
     </li>
     <li class="flex items-center my-2">
-      4. <img src={`https://source.unsplash.com/random/4`} alt="Item 4" class="h-10 w-10 mx-2" width="24" height="24" />
+      4. <img src={`https://chain-icons.s3.amazonaws.com/optimism.png`} alt="Item 4" class="h-10 w-10 mx-2" width="24" height="24" />
       Optimism
     </li>
   </ol>
